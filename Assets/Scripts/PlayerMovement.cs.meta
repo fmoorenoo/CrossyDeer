@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 27bacb0ccefa68713b776ea1bbb695cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AnimalAplastado: {fileID: 6595649270372896367, guid: e851a85647160bc95ba803c6e7e327ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
